@@ -1,4 +1,4 @@
-SYSTEM = cya-vasp-AIMD
+SYSTEM = Vasp-AIMD
 PREC = Normal
 ISMEAR = 0
 SIGMA = 0.05
