@@ -1,0 +1,8 @@
+System = Vasp-band
+ISMEAR = 0
+SIGMA = 0.05
+EDIFF = 1E-8
+LORBIT = 11
+EMIN = -20
+EMAX = 20
+NEDOS = 4001
